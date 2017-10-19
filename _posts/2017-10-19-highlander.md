@@ -1,4 +1,11 @@
-## 매치 용어
+---
+layout: post
+title: 매치 용어
+categories: [tf2]
+tags: [tf2]
+fullview: true
+---
+
 기본과 게임 내 용어만 알아 두셔도 무방합니다.
 
 ## 기본
