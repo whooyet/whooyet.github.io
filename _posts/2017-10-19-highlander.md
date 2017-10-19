@@ -60,3 +60,6 @@ fullview: true
 특히 메딕같은놈이 얼빠지게 돌아다니다 죽으면 영웅대접 받음
 - Huge : 원 의미는 크다라는 뜻. 대충 예상하다시피 뭔가 졸라 개쩌는 플레이가 나왔을때 
 - Fatkid : 팻키드, 퍼그에서 팀이 다 채워질때까지 픽 못돼서 결국 관전하는 사람들을 말함
+
+출저 http://steamcommunity.com/groups/MatchJunkShop/discussions/0/1483232961050904123/
+
